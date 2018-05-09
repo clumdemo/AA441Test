@@ -9,3 +9,5 @@ function [z] = MySubtraction(x,y)
 z = x - y;
 
 dog = linspace(2, 3, 5);
+
+%Adding more code during class on 05/09/18.
